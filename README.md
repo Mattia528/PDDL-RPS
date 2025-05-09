@@ -4,3 +4,5 @@ Nel caso di utilizzo del planner ENHSP, i file del dominio e del problema vanno 
 Ottima: Java –jar enhsp.jar –o Barbot_dom.pddl –f Barbot_prob.pddl –planner opt-hrmax
 
 Sub-Ottima: Java –jar enhsp.jar –o Barbot_dom.pddl –f Barbot_prob.pddl –planner sat-hadd
+
+Per quanto riguarda l'interfaccia grafica, basta scaricare il codice python inserito qua nella repository
